@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujith
 - 👀 I’m interested in Software engineering and Data science.
-- 🌱 I’m currently learning full-stack development and the basics of Data science.
+- 🌱 I’m currently learning Full-stack development.
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh
 - 😄 Pronouns: He/Him
 
