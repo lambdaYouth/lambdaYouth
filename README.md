@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujith
-- 👀 I’m interested in Software engineering and Data science.
-- 🌱 I’m currently learning Full-stack development.
+- 📌 I’m interested in building useful automation systems and am deeply passionate about the potential of AI in transforming industries.
+- 🌱 I’m currently learning Data Science and AI principles.
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh
 - 😄 Pronouns: He/Him
 
