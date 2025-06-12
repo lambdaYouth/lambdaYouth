@@ -1,10 +1,11 @@
+<h1>About</h1>
 - 👋 Hi, I’m Sujith
 - 📌 I’m interested in building useful applications and am deeply passionate about the potential of AI in transforming various industries.
 - 🌱 I’m currently mastering full-stack development and AI/ML.  
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh
 - 😄 Pronouns: He/Him
 
-<h1>Skills:</h1>
+<h1>Top skills</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,python" />
