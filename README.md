@@ -5,7 +5,11 @@
 - 😄 Pronouns: He/Him
 
 <h1>Skills:</h1>
-<p>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,python" />
+  </a>
+</p>
 <!---
 lambdaYouth/lambdaYouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
