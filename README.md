@@ -11,6 +11,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,python" />
   </a>
 </p>
+
+<h1>Currently learning</h1>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,mongodb, express, dsa" />
+  </a>
+
 <!---
 lambdaYouth/lambdaYouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
