@@ -1,9 +1,9 @@
 <h1>About</h1>
-- 👋 Hi, I’m Sujith
-- 📌 I’m interested in building useful applications and am deeply passionate about the potential of AI in transforming various industries.
-- 🌱 I’m currently mastering full-stack development and AI/ML.  
-- 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Sujith <br>
+- 📌 I’m interested in building useful applications and am deeply passionate about the potential of AI in transforming various industries. <br>
+- 🌱 I’m currently mastering full-stack development and AI/ML.  <br>
+- 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh <br>
+- 😄 Pronouns: He/Him <br>
 
 <h1>Top skills</h1>
 <p>
