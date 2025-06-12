@@ -8,13 +8,13 @@
 <h1>Top skills</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python" />
   </a>
 </p>
 
 <h1>Currently learning</h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=typescript, angular, express, mongodb, nodejs, java" />
   </a>
 
 <!---
