@@ -14,7 +14,7 @@
 
 <h1>Currently learning</h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,express,mongodb,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular,express,mongodb,nodejs,java,spring" />
   </a>
 
 <!---
