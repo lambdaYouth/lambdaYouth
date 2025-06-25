@@ -1,5 +1,4 @@
-<h1>About</h1>
-- 👋 Hello, I’m Sujith <br>
+<h1>Hey there! I'm Sujith 👋</h1>
 - 📌 I’m interested in building useful applications and am deeply passionate about the potential of AI in transforming industries. <br>
 - 🌱 I’m currently mastering full-stack development and AI/ML.  <br>
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh <br>
