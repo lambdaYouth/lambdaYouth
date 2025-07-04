@@ -4,7 +4,7 @@
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh <br>
 - 😄 Pronouns: He/Him <br>
 
-<h1>Top skills</h1>
+<h1>Skills</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,angular,python,postman" />
