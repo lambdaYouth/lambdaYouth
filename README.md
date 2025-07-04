@@ -7,7 +7,7 @@
 <h1>Top skills</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,angular,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,angular,python,postman" />
   </a>
 </p>
 
@@ -16,8 +16,6 @@
     <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,java,spring" />
   </a>
 
-<h1>Statistics</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 lambdaYouth/lambdaYouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
