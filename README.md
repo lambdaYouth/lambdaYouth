@@ -1,8 +1,9 @@
 <h1>Hey there! I'm Sujith 👋</h1>
-- 📌 I’m interested in building useful applications and am deeply passionate about the potential of AI in transforming industries. <br>
-- 🌱 I’m currently learning full-stack development and AI/ML.  <br>
-- 📫 How to reach me LinkedIn: www.linkedin.com/in/iamsujithh <br>
-- 😄 Pronouns: He/Him <br>
+- I'm a third-year college student pursuing my Bachelor's degree in Information Technology at Anna University, CEG Campus.
+- I’m interested in building innovative applications, and I find pleasure in exploring Web development and AI/ML. <br>
+- Presently, I'm learning Full-stack development (MEAN & MERN) and the fundamentals of AI/ML. <br>
+- I'm committed to continuous learning and exploring new ways of implementing promising technologies.
+- Reach me on LinkedIn: www.linkedin.com/in/iamsujithh <br>
 
 <h1>Skills</h1>
 <p>
