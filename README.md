@@ -17,8 +17,7 @@
   </a>
 
 <h1>Statistics</h1>
-  [![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambdaYouth&theme=dark)](https://github.com/lambdaYouth/github-readme-stats)
-
+  [![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambdaYouth&theme=dark)]
 <!---
 lambdaYouth/lambdaYouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
