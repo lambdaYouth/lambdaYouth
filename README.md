@@ -12,6 +12,13 @@
   </a>
 </p>
 
+<h1>Tools</h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,netlify" />
+  </a>
+</p>
+
 <h1>Currently learning</h1>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,spring,sklearn" />
