@@ -8,7 +8,7 @@
 <h1>Skills</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,typescript,react,angular,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,typescript,react,angular" />
   </a>
 </p>
 
