@@ -1,6 +1,5 @@
 <h1>Hey there! I'm Sujith 👋</h1>
 A budding professional with a passion for Technology, focused on Full-stack Software development and Applied AI. 
-- Reach me on LinkedIn: www.linkedin.com/in/iamsujithh <br>
 
 <h1>Skills</h1>
 <p>
