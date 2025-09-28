@@ -11,7 +11,7 @@ A budding professional with a passion for Technology, focused on Full-stack Soft
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,netlify" />
+    <img src="https://skillicons.dev/icons?i=postman,netlify,vercel" />
   </a>
 </p>
 
