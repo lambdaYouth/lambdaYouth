@@ -1,6 +1,4 @@
-<h1>Hey there! I'm Sujith 👋</h1>
-A budding professional with a passion for Technology, focused on Full-stack Software development and Applied AI. 
-
+<h1>A budding professional with a passion for Technology, focused on Full-stack Software development and Applied AI. </h1>
 <h1>Skills</h1>
 <p>
   <a href="https://skillicons.dev">
