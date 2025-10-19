@@ -1,3 +1,10 @@
+<h1>Learnings so far</h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,ts" />
+  </a>
+</p>
+
 <h1>Tools I use</h1>
 <p>
   <a href="https://skillicons.dev">
