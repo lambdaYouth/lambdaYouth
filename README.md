@@ -1,11 +1,11 @@
-<h1>Tools</h1>
+<h1>Tools I use</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,netlify,vercel,anaconda,vscode,idea,pycharm" />
   </a>
 </p>
 
-<h1>Currently learning</h1>
+<h1>Levelling up on</h1>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,sklearn,mysql" />
   </a>
