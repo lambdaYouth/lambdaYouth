@@ -1,20 +1,13 @@
-<h1>Skills</h1>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,typescript,react,angular" />
-  </a>
-</p>
-
 <h1>Tools</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=postman,netlify,vercel,anaconda,vscode,idea,pycharm" />
   </a>
 </p>
 
 <h1>Currently learning</h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,sklearn" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,sklearn,mysql" />
   </a>
 
   
