@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<h1>Levelling up on</h1>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,sklearn,mysql,nextjs" />
-  </a>
 
   
 <!---
