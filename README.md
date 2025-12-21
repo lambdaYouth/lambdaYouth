@@ -1,7 +1,7 @@
 <h1>Learnings so far</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,ts,python" />
   </a>
 </p>
 
